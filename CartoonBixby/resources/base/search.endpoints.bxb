@@ -1,0 +1,8 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (search) {
+      accepted-inputs (keyword, category, author)
+      local-endpoint ("search.js")
+    }
+  }
+}

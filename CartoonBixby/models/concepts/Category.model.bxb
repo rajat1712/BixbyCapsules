@@ -1,0 +1,6 @@
+enum (Category) {
+  description (Categories)
+  symbol (CATS)
+  symbol (DOGS)
+  symbol (DUCKS)
+}

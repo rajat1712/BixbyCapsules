@@ -1,0 +1,8 @@
+capsule-info {
+  display-name (Perfect Cartoon)
+  developer-name (Elchuzade)
+  icon-asset (images/CoinIcon.png)
+  description ("Search the World's largest cartoon website")
+  website-url (https://perfectcartoon.com/)
+  terms-url (https://example.com/terms-of-use/)
+}

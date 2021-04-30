@@ -1,0 +1,5 @@
+vocab (Category) {
+  "DOGS" {"dog" "dogs" "puppies" "puppy"}
+  "CATS" {"cat" "cats" "kitties" "puppy"}
+  "DUCKS" {"duck" "ducks"}
+}

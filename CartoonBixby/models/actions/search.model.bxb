@@ -1,0 +1,19 @@
+action (search) {
+  type (Search)
+  description (searches the world's largest cartoons website)
+  collect {
+    input (keyword) {
+      type (Keyword)
+      min (Optional) max (One)
+    }
+    input (category) {
+      type (Category)
+      min (Optional) max (One)
+    }
+    input (author) {
+      type (Author)
+      min (Optional) max (One)
+    }
+  }
+  output (Cartoon)
+}
