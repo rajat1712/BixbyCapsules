@@ -1,0 +1,15 @@
+capsule {
+  id (example.statesAndCapitals)
+  version (0.1.0)
+  format (3)
+  runtime-version (2)
+  targets {
+    target (bixby-mobile-en-US)
+  }
+  store-countries {
+    all
+  }
+  store-sections {
+    section (EducationAndReference)
+  }
+}
